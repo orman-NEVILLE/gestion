@@ -1,0 +1,3 @@
+Titulaire: NABIL, Numéro de compte: 01, Solde: 20000.0
+Titulaire: NEVILLE, Numéro de compte: 03, Solde: 35000.0, Taux d'intérêt: 2.0
+Titulaire: Yve NETURUYE, Numéro de compte: 05, Solde: 30000.0
